@@ -30,7 +30,7 @@
   "license": "MIT",
   "description": "Tianji MCP Server",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.18.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "tianji-client-sdk": "workspace:^",
     "zod": "^3.24.2"
   },
